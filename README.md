@@ -1,4 +1,4 @@
-# RESUMO do Lab Microsoft Azure - Localizando Serviços por Categoria
+# Resumo do Lab Microsoft Azure - Localizando Serviços por Categoria
 
 Existem inúmeros serviços para suprir as diversas necessidades e todos estão organizados em categorias.
 
@@ -148,11 +148,12 @@ No Azure, há diversas ferramentas para monitorar o ambiente, verificar a saúde
 - Service Health: Um painel de visualização da saúde e manutenções agendadas que mostram se há algum ponto em degradação.
 - Advisor: Traz recomendações sobre a infraestrutura que garantem benefícios.
 
-[Expert](https://www.dio.me)
+### 🧑‍🏫 Expert [Dio](https://www.dio.me)
 
 - [Valéria Baptista | LinkedIn](https://www.linkedin.com/in/valeriabaptista/)
+  
 Head of Cloud and Cybersecurity, CloudData Tech & DevOps
 
-### Follow me
+### 📲 Follow me
 
 - [MARCIO ADRIANO DA SILVA | LinkedIn](https://www.linkedin.com/in/mads1974/)
